@@ -1,0 +1,29 @@
+/* .parallax img {
+    width: 100%;
+    
+} */
+.parallax {
+    background-size:contain ;
+    height: 10px;
+
+}
+h1 {
+    text-align: center;
+    font-family: 'Merriweather', serif;
+
+}
+
+.card-title {
+
+    font-family: 'Merriweather', serif;
+
+}
+
+.mycontainer{
+    margin: 40px;
+}
+
+.searchcontainer{
+    margin:50px;
+
+}
